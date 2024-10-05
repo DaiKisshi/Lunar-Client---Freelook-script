@@ -1,2 +1,2 @@
-# Lunar-Client---Freelook-script
+# Lunar Client - Freelook script
 Enable on Hypixel
