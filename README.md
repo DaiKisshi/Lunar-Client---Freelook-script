@@ -1,6 +1,6 @@
 # Lunar Client - Freelook script
 
-Bypass on Hypixel
+Also enables ahk
 
 # How to use (ENG)
 * Download: [Script](https://github.com/DaiKisshi/Lunar-Client-Freelook-Script/blob/main/Freelook.rar)
