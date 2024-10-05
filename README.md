@@ -1,2 +1,3 @@
 # Lunar Client - Freelook script
-Enable on Hypixel
+
+Bypass on Hypixel
